@@ -1,0 +1,36 @@
+html,
+body{
+    height: 100%;
+}
+input{
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid rgb(137, 181, 194);
+    width: 250px;
+}
+
+.botao{
+width: 100px;
+padding: 15px;
+background-color: lightgoldenrodyellow;
+border: 1px solid rgb(255, 255, 130);
+border-radius: 15px;
+margin-top: 8px;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container_login{
+    padding: 40px;
+    background-color: khaki;
+    width: 350px;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
